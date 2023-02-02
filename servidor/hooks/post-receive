@@ -1,0 +1,3 @@
+#!/bin/sh
+
+git --git-dir=/home/am6s/Documentos/git-e-github/servidor --work-tree=/home/am6s/Documentos/git-e-github/web checkout -f
